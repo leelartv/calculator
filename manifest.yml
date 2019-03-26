@@ -1,6 +1,6 @@
 applications:
-- name: watson-assistant-simple
+- name: redbooks-conv-201-calc-nodejs-20190319230736263
   command: npm start
   path: .
-  memory: 256M
+  memory: 512M
   instances: 1
